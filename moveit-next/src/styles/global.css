@@ -51,11 +51,15 @@ a {
   text-decoration: none;
 }
 
-.container {
-  height: 100vh;
-  max-width: 992px;
-  margin: auto;
-  padding: 2.5rem 2rem;
-  display: flex;
-  flex-direction: column;
+::-webkit-scrollbar {
+  width: 0.25rem;
+}
+
+::-webkit-scrollbar-track {
+  background-color: var(--background);
+}
+
+::-webkit-scrollbar-thumb {
+  background-color: var(--green);
+  border-radius: 4px;
 }
