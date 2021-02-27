@@ -35,7 +35,7 @@ Este projeto foi desenvolvido utilizando as seguintes tecnologias:
 Clone o projeto e acesse a pasta `moveit`.
 
 ```bash
-$ git clone https://github.com/guilhermecapitao/nlw04-moveit-web.git
+$ git clone https://github.com/abigailarruda/move.it.git
 $ cd move.it/moveit
 ```
 
