@@ -2,10 +2,12 @@
   display: flex;
   align-items: center;
   justify-content: space-between;
-  margin: 3.5rem 0;
-  padding-bottom: 1rem;
-  border-bottom: 1px solid #d7d8da;
+  margin: 2rem 0;
+  padding: 2rem;
   font-weight: 500;
+  background-color: var(--white);
+  box-shadow: 0 0 5rem rgba(231, 231, 239, 1);
+  border-radius: 0.5rem;
 }
 
 .completedChallengesContainer span:first-child {

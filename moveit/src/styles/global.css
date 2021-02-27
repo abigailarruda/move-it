@@ -1,14 +1,13 @@
 :root {
   --white: #ffffff;
-  --background: #f2f3f5;
-  --gray-line: #dcdde0;
-  --text: #666666;
+  --background: #f9f9fb;
+  --line: #dfdfe8;
+  --text: #8f90ae;
   --text-highlight: #b3b9ff;
-  --title: #2e384d;
-  --red: #e83f5b;
-  --green: #4cd62b;
-  --blue: #5965e0;
-  --blue-dark: #4953b8;
+  --title: #432f79;
+  --purple: #5d42af;
+  --yellow: #ffc633;
+  --yellow-dark: #ffbb29;
   --blue-twitter: #2aa9e0;
 }
 
@@ -60,6 +59,5 @@ a {
 }
 
 ::-webkit-scrollbar-thumb {
-  background-color: var(--green);
-  border-radius: 4px;
+  background-color: var(--purple);
 }
